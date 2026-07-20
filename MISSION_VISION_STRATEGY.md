@@ -38,6 +38,12 @@ https://youtu.be/PqTpYZlZY6Y
 
 ---
 
+## Final Mission Statement
+
+**Empowering patients by providing their complete longitudinal health data in one private, portable place, while connecting that data to relevant clinical studies and emerging treatments through structured, evidence-based interpretation.**
+
+---
+
 ## Lumie Vision Ideas
 
 1. A world where every patient’s complete health story travels with them, instantly accessible to any practitioner or AI they choose.
@@ -56,14 +62,14 @@ https://youtu.be/PqTpYZlZY6Y
 
 ## Strongest Candidates
 
-**Mission:** The refined first idea (complete data + research interpretation) is the strongest.
-**Vision:** The first vision idea (health story travels with the patient, enriched by intelligence) is the strongest.
+**Mission:** The refined first idea (complete data + research interpretation) is the strongest. See Final Mission Statement above.
+**Vision:** The first vision idea (health story travels with the patient, enriched by intelligence) is the strongest. See Final Vision Statement above.
 
 ---
 
 ## Final Suggestions
 
 - Use the Final Vision Statement as the north star.
-- Keep the refined Mission as the daily promise.
+- Keep the Final Mission Statement as the daily promise.
 - Build the rubric engine and MCP layer as the moat.
 - Start with motivated chronic patients, then expand via practitioners.
